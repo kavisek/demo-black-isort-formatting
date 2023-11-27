@@ -1,8 +1,4 @@
-# template-workspace
-
-{description}
-
-## Setup
+# demo-black-isort-formatting
 
 ```bash
 cd app
