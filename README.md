@@ -11,6 +11,4 @@ poetry env use $HOME/.pyenv/versions/3.10.8/bin/python
 poetry install
 ```
 
-## References
-
-{references}
+Take a look the [.github/workflows/pipeline.yml](.github/workflows/pipeline.yml) file to see how the workflow is configured.

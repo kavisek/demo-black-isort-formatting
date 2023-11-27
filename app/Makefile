@@ -18,8 +18,8 @@ pytest:
 	poetry run pytest --cov=./tests --black -rAP 
 
 black:
-	isort .
-	black .
+	poetry run isort .
+	poetry run black .
 
 
 # DOCKER / CONTAINER REGISTRY COMMANDS
